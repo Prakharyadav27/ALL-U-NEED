@@ -1,5 +1,3 @@
-import javax.swing.plaf.FontUIResource;
-
 public class Factorial {
     public static void main(String[] args) {
         int num=5,Fact=1 ;
