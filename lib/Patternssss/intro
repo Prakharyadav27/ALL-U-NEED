@@ -1,0 +1,11 @@
+Process :~ 
+Step 1> No. of line = No. of rows = No. of time outer loop will run
+Step 2> Identify for every row
+                >> How many column are there 
+                >> Types of element in the column    
+Step 3> What do u need to print
+
+
+
+Pattern1 > Right angled star print 
+Pattern2> 
