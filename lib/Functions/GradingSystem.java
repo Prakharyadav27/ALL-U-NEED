@@ -20,7 +20,13 @@ public class GradingSystem {
         }else if(score>=71&&score<=80){
             System.out.println("BB");
         }else if (score>=61&&score<=70) {
-            System.out.println();
+            System.out.println("BC");
+        }else if (score>=51&&score<=60) {
+            System.out.println("CD");
+        }else if (score>=41&&score<=50) {
+            System.out.println("DD");
+        }else if (score<=40) {
+            System.out.println("Fail");
         }
         
     }
