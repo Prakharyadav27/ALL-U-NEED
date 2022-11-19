@@ -28,6 +28,6 @@ public class GradingSystem {
         }else if (score<=40) {
             System.out.println("Fail");
         }
-        
+        System.out.println("Pdhle bhai");
     }
 }
